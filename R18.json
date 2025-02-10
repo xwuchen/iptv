@@ -19,15 +19,6 @@
       "filterable": 1
     },
     {
-      "key": "哥哥妹妹",
-      "name": "哥哥妹妹",
-      "type": 0,
-      "api": "http://www.ggmmzy.com:9999/inc/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "shayu",
       "name": "shayu",
       "type": 0,
@@ -37,28 +28,10 @@
       "filterable": 1
     },
     {
-      "key": "色屌丝",
-      "name": "色屌丝",
-      "type": 0,
-      "api": "http://sdszyapi.com/home/cjapi/asbb/mc10/vod/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "番号资源",
       "name": "番号资源",
       "type": 0,
       "api": "http://fhapi9.com/api.php/provide/vod/at/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "点点娱乐",
-      "name": "点点娱乐",
-      "type": 0,
-      "api": "https://xx55zyapi.com/home/cjapi/ascf/mc10/vod/xml",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
