@@ -1,15 +1,6 @@
 {
   "sites": [
     {
-      "key": "葡萄资源",
-      "name": "葡萄资源",
-      "type": 0,
-      "api": "https://caiji.putaozy.net/inc/api.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "探探资源",
       "name": "探探资源",
       "type": 0,
