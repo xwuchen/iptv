@@ -82,46 +82,10 @@
       "filterable": 1
     },
     {
-      "key": "447fa6df-7552-5830-ab64-d45afbf39b42",
-      "name": "草榴",
-      "type": 1,
-      "api": "https://www.caoliuzy.com/api.php/provide/vod/at/json/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "8a885bf6-666b-5bbf-8669-4c7f1ffb7a71",
-      "name": "开云",
-      "type": 1,
-      "api": "https://kaiyunzy5.com/inc/apijson_vod.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "a4d8e39c-5981-5c07-84f8-19ab9839e160",
-      "name": "黄瓜",
-      "type": 1,
-      "api": "https://www.avre00.com/api.php/Prodao/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "ffc08730-71ad-56b8-a153-e2e563e6d64c",
       "name": "奶香",
       "type": 1,
       "api": "https://Naixxzy.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "f81ab05d-3269-5fb9-97bb-1597b00e0e02",
-      "name": "伊人",
-      "type": 1,
-      "api": "https://api.yrzyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
