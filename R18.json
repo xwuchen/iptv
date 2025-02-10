@@ -271,28 +271,10 @@
       "filterable": 1
     },
     {
-      "key": "好片资源",
-      "name": "好片资源",
-      "type": 1,
-      "api": "https://haopianapi.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "奥斯卡资源",
       "name": "奥斯卡资源",
       "type": 1,
       "api": "https://aosikazy.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "花魁资源",
-      "name": "花魁资源",
-      "type": 1,
-      "api": "https://caiji.huakuiapi.com/inc/apijson_vod.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -333,15 +315,6 @@
       "quickSearch": 1,
       "filterable": 0
     },
-    {
-      "key": "极速官采",
-      "name": "极速官采",
-      "type": 1,
-      "api": "http://gc.zhuijuba.vip/api.php/provide/vod/",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1
-    }
   ],
   "lives": [
     {
