@@ -127,15 +127,6 @@
       "filterable": 1
     },
     {
-      "key": "cfa8e308-0120-5e43-a937-eebb76f99626",
-      "name": "丝袜",
-      "type": 0,
-      "api": "https://www.siwazyw.cc/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "34cd623c-0b62-5426-a653-9c1db4a850e8",
       "name": "黄AV",
       "type": 0,
@@ -149,24 +140,6 @@
       "name": "香奶儿",
       "type": 0,
       "api": "https://www.gdlsp.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "0e3d48dd-9a80-57d5-800d-148b13983386",
-      "name": "菜云",
-      "type": 0,
-      "api": "https://www.caiyunjidi.com/api/vod.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "37f548f0-4a9d-5da4-b3de-87552f2eb8d0",
-      "name": "壹壹资源",
-      "type": 0,
-      "api": "https://www.221zyz.vip/inc/api.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
