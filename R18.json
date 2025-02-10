@@ -271,15 +271,6 @@
       "filterable": 1
     },
     {
-      "key": "好片资源",
-      "name": "好片资源",
-      "type": 1,
-      "api": "https://haopianapi.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "奥斯卡资源",
       "name": "奥斯卡资源",
       "type": 1,
