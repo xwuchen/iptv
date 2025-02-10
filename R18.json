@@ -280,15 +280,6 @@
       "filterable": 1
     },
     {
-      "key": "花魁资源",
-      "name": "花魁资源",
-      "type": 1,
-      "api": "https://caiji.huakuiapi.com/inc/apijson_vod.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "滴滴资源",
       "name": "滴滴资源",
       "type": 0,
@@ -323,15 +314,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
-    },
-    {
-      "key": "极速官采",
-      "name": "极速官采",
-      "type": 1,
-      "api": "http://gc.zhuijuba.vip/api.php/provide/vod/",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1
     }
   ],
   "lives": [
