@@ -163,15 +163,6 @@
       "filterable": 1
     },
     {
-      "key": "f881d19e-9433-56d4-9c06-4a842b280877",
-      "name": "爱播",
-      "type": 0,
-      "api": "https://cj.apiabzy.com/api.php/provide/vod/at/xml/",
-      "searchable": 2,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "54658e47-58bb-5221-bec2-82b8a3be2ec4",
       "name": "草莓",
       "type": 0,
@@ -179,24 +170,6 @@
       "searchable": 2,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "b6b384a4-43d1-5937-babe-c7af2ea5e21b",
-      "name": "小湿妹",
-      "type": 0,
-      "api": "https://www.afasu.com/api/xml.php",
-      "searchable": 2,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "20a58291-0246-5461-97b6-b080245200dd",
-      "name": "久久",
-      "type": 0,
-      "api": "http://99zy.pw/api.php/provide/vod/at/xml/",
-      "searchable": 2,
-      "quickSearch": 1,
-      "filterable": 0
     },
     {
       "key": "34cd623c-0b62-5426-a653-9c1db4a850e8",
