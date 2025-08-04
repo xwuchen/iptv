@@ -1,3 +1,8 @@
+#EXTM3U
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE remote
+#EXT-X-SUB-URL https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Adult.m3u
+
 #EXTINF:-1 tvg-id="" tvg-name="\u2726\u25cf\u2726 ADULT 7/24 \u2726\u25cf\u2726" group-title="XXX ❤️ ADULTS 1",\u2726\u25cf\u2726 ADULT 7/24 \u2726\u25cf\u2726
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
