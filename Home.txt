@@ -1,8 +1,8 @@
-CCTV-1高清,http://192.168.31.1:5080/scgd.php?id=101
+CCTV-1高清,http://192.168.31.1:5080/hbgd.php?id=cctv1hd_3000
 CCTV-2高清,http://192.168.31.1:5080/scgd.php?id=801
 CCTV-3高清,http://192.168.31.1:5080/scgd.php?id=103
 CCTV-4高清,http://192.168.31.1:5080/scgd.php?id=39
-CCTV-5高清,http://192.168.31.1:5080/scgd.php?id=105
+CCTV-5高清,http://192.168.31.1:5080/hbgd.php?id=cctv5hd_3000
 CCTV-5+高清,http://192.168.31.1:5080/scgd.php?id=107
 CCTV-6高清,http://192.168.31.1:5080/scgd.php?id=12
 CCTV-7高清,http://192.168.31.1:5080/scgd.php?id=802
